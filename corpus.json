@@ -1,0 +1,82 @@
+[
+  {
+    "pregunta": "hola",
+    "respuesta": "¡Hola! 👋 Bienvenido a la Universidad San Buenaventura Sede Cali. ¿Cómo puedo ayudarte hoy con nuestros productos o servicios?"
+  },
+  {
+    "pregunta": "buenos dias",
+    "respuesta": "¡Buenos días! 😊 Gracias por contactar a Universidad San Buenaventura Sede Cali. ¿En qué podemos asistirte?"
+  },
+  {
+    "pregunta": "buenas tardes",
+    "respuesta": "¡Buenas tardes! ☀️ Un placer atenderte en Universidad San Buenaventura Sede Cali. ¿Qué información necesitas?"
+  },
+  {
+    "pregunta": "informacion sobre productos",
+    "respuesta": "Claro, ofrecemos [Producto A: descripción breve], [Producto B: descripción breve] y [Servicio C: descripción breve]. ¿Te gustaría saber más detalles sobre alguno en particular?"
+  },
+  {
+    "pregunta": "cuales son sus servicios",
+    "respuesta": "Nos especializamos en [Servicio X: como consultoría en IA], [Servicio Y: como desarrollo de software a medida] y [Servicio Z: como talleres de capacitación]. ¿Alguno de estos te interesa?"
+  },
+  {
+    "pregunta": "precio de producto A",
+    "respuesta": "El [Producto A] tiene un costo de [Precio]. Incluye [características destacadas]. ¿Deseas más información o cómo adquirirlo?"
+  },
+  {
+    "pregunta": "como puedo comprar",
+    "respuesta": "Puedes adquirir nuestros productos/servicios contactándonos por este medio para guiarte en el proceso, o visitando nuestra página web [tu_pagina_web.com] en la sección de compras."
+  },
+  {
+    "pregunta": "horario de atencion",
+    "respuesta": "Nuestro horario de atención es de Lunes a Viernes de 9:00 AM a 6:00 PM (Tu Zona Horaria)."
+  },
+  {
+    "pregunta": "donde estan ubicados",
+    "respuesta": "Actualmente operamos de forma [online/remota/híbrida]. Nuestra oficina principal (si aplica) está en [Tu Dirección, Ciudad]. Para servicios presenciales, por favor consulta disponibilidad."
+  },
+  {
+    "pregunta": "metodos de pago",
+    "respuesta": "Aceptamos los siguientes métodos de pago: [Transferencia Bancaria, Tarjeta de Crédito/Débito, PayPal, etc.]. ¿Cuál prefieres?"
+  },
+  {
+    "pregunta": "tienen alguna promocion",
+    "respuesta": "¡Sí! Actualmente tenemos una promoción especial en [Producto/Servicio en promoción] con un [descuento/beneficio]. Visita [tu_pagina_web.com/promociones] para más detalles."
+  },
+  {
+    "pregunta": "necesito ayuda tecnica",
+    "respuesta": "Lamento que estés experimentando problemas. Por favor, describe tu inconveniente y te conectaremos con nuestro equipo de soporte técnico lo antes posible, o puedes contactarlos directamente en [email_soporte@example.com] o al [numero_soporte]."
+  },
+  {
+    "pregunta": "informacion de contacto",
+    "respuesta": "Puedes contactarnos a través de este chat, llamarnos al [Tu Número de Teléfono], o escribirnos un correo a [tu_email@example.com]. También nos encuentras en [Redes Sociales, si aplica]."
+  },
+  {
+    "pregunta": "quienes son ustedes",
+    "respuesta": "Somos [Nombre de tu Empresa/Servicio], una organización dedicada a [tu misión o a qué te dedicas]. Nos esforzamos por ofrecer [tus valores o lo que te diferencia]."
+  },
+  {
+    "pregunta": "gracias",
+    "respuesta": "¡De nada! Ha sido un placer ayudarte. Si tienes más preguntas, no dudes en consultar. 😊"
+  },
+  {
+    "pregunta": "adios",
+    "respuesta": "¡Hasta luego! Que tengas un excelente día. Esperamos verte pronto. 👋"
+  },
+  {
+    "pregunta": "ok",
+    "respuesta": "Entendido. ¿Hay algo más en lo que pueda asistirte?"
+  },
+  {
+    "pregunta": "que animal dice miau",
+    "respuesta": "Aunque soy un bot de [Nombre de tu Empresa/Servicio], te puedo decir que el animal que comúnmente dice 'miau' es el gato. 🐱"
+  },
+  {
+    "pregunta": "de que color es el cielo",
+    "respuesta": "Interesante pregunta. El cielo suele ser azul durante el día. ¿Te puedo ayudar con alguna consulta sobre nuestros [productos/servicios]?"
+  },
+  {
+    "pregunta": "cuantos dias tiene una semana",
+    "respuesta": "Una semana tiene siete días. Ahora, volviendo a nuestros servicios, ¿tienes alguna pregunta sobre [Nombre de tu Empresa/Servicio]?"
+  }
+]
