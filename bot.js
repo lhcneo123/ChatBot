@@ -17,16 +17,22 @@ const fs = require('fs'); // Módulo para trabajar con el sistema de archivos
 // Ejemplo para un número de EEUU: '12025550101@c.us'
 // Ejemplo para un número de Colombia: '573001234567@c.us'
 const usuariosBienvenida = [
-  '573167530242@c.us', // Cambia esto
-  '573176477314@c.us'  // Cambia esto (puedes añadir más o quitar)
+     '573226111372@c.us'  // Cambia esto (puedes añadir más o quitar)
 ];
 
 // Mensaje de bienvenida y ruta de la imagen promocional
-const nombreEmpresaOServicio = "Tu Universidad preferidad"; // Personaliza esto
-const mensajeBienvenidaTexto = `¡Hola! 👋 Bienvenido a ${nombreEmpresaOServicio}.
-Estamos encantados de tenerte aquí.
-Explora nuestros innovadores productos y servicios diseñados especialmente para ti.
-¿En qué podemos ayudarte hoy?`;
+// En bot.js
+const nombreEmpresaOServicio = "Asistente USB Cali"; // O "Tu Guía USB Cali"
+
+const mensajeBienvenidaTexto = `¡Hola! 👋 Soy ${nombreEmpresaOServicio}, tu compañero virtual en la U. de San Buenaventura Cali.
+
+Estoy aquí para ayudarte con:
+🎓 **Programas Académicos**: Info sobre carreras y posgrados. (Escribe "PROGRAMAS")
+📝 **Admisiones**: Requisitos, fechas, costos. (Escribe "ADMISIONES")
+🏛️ **Campus y Servicios**: Biblioteca, Bienestar, etc. (Escribe "CAMPUS")
+📞 **Contacto**: ¿Necesitas hablar con alguien? (Escribe "CONTACTO")
+
+¿Sobre qué te gustaría saber? Solo escribe la palabra clave o tu pregunta. 😊`;
 const rutaImagenPromocional = './media/ImagenPromocion.png'; // Asegúrate que esta ruta y archivo existan
 
 // Archivo para registrar consultas no reconocidas

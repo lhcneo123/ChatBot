@@ -1,82 +1,205 @@
 [
   {
     "pregunta": "hola",
-    "respuesta": "¡Hola! 👋 Bienvenido a la Universidad San Buenaventura Sede Cali. ¿Cómo puedo ayudarte hoy con nuestros productos o servicios?"
+    "respuesta": "¡Hola! 👋 Bienvenido al asistente virtual de la Universidad de San Buenaventura Cali. Estoy aquí para ayudarte. ¿En qué puedo colaborarte hoy?"
   },
   {
     "pregunta": "buenos dias",
-    "respuesta": "¡Buenos días! 😊 Gracias por contactar a Universidad San Buenaventura Sede Cali. ¿En qué podemos asistirte?"
+    "respuesta": "¡Buenos días! 😊 Gracias por contactar a la Universidad de San Buenaventura Cali. ¿Qué información necesitas?"
   },
   {
     "pregunta": "buenas tardes",
-    "respuesta": "¡Buenas tardes! ☀️ Un placer atenderte en Universidad San Buenaventura Sede Cali. ¿Qué información necesitas?"
-  },
-  {
-    "pregunta": "informacion sobre productos",
-    "respuesta": "Claro, ofrecemos [Producto A: descripción breve], [Producto B: descripción breve] y [Servicio C: descripción breve]. ¿Te gustaría saber más detalles sobre alguno en particular?"
-  },
-  {
-    "pregunta": "cuales son sus servicios",
-    "respuesta": "Nos especializamos en [Servicio X: como consultoría en IA], [Servicio Y: como desarrollo de software a medida] y [Servicio Z: como talleres de capacitación]. ¿Alguno de estos te interesa?"
-  },
-  {
-    "pregunta": "precio de producto A",
-    "respuesta": "El [Producto A] tiene un costo de [Precio]. Incluye [características destacadas]. ¿Deseas más información o cómo adquirirlo?"
-  },
-  {
-    "pregunta": "como puedo comprar",
-    "respuesta": "Puedes adquirir nuestros productos/servicios contactándonos por este medio para guiarte en el proceso, o visitando nuestra página web [tu_pagina_web.com] en la sección de compras."
-  },
-  {
-    "pregunta": "horario de atencion",
-    "respuesta": "Nuestro horario de atención es de Lunes a Viernes de 9:00 AM a 6:00 PM (Tu Zona Horaria)."
-  },
-  {
-    "pregunta": "donde estan ubicados",
-    "respuesta": "Actualmente operamos de forma [online/remota/híbrida]. Nuestra oficina principal (si aplica) está en [Tu Dirección, Ciudad]. Para servicios presenciales, por favor consulta disponibilidad."
-  },
-  {
-    "pregunta": "metodos de pago",
-    "respuesta": "Aceptamos los siguientes métodos de pago: [Transferencia Bancaria, Tarjeta de Crédito/Débito, PayPal, etc.]. ¿Cuál prefieres?"
-  },
-  {
-    "pregunta": "tienen alguna promocion",
-    "respuesta": "¡Sí! Actualmente tenemos una promoción especial en [Producto/Servicio en promoción] con un [descuento/beneficio]. Visita [tu_pagina_web.com/promociones] para más detalles."
-  },
-  {
-    "pregunta": "necesito ayuda tecnica",
-    "respuesta": "Lamento que estés experimentando problemas. Por favor, describe tu inconveniente y te conectaremos con nuestro equipo de soporte técnico lo antes posible, o puedes contactarlos directamente en [email_soporte@example.com] o al [numero_soporte]."
-  },
-  {
-    "pregunta": "informacion de contacto",
-    "respuesta": "Puedes contactarnos a través de este chat, llamarnos al [Tu Número de Teléfono], o escribirnos un correo a [tu_email@example.com]. También nos encuentras en [Redes Sociales, si aplica]."
-  },
-  {
-    "pregunta": "quienes son ustedes",
-    "respuesta": "Somos [Nombre de tu Empresa/Servicio], una organización dedicada a [tu misión o a qué te dedicas]. Nos esforzamos por ofrecer [tus valores o lo que te diferencia]."
+    "respuesta": "¡Buenas tardes! ☀️ Un placer atenderte desde la Universidad de San Buenaventura Cali. ¿En qué podemos ayudarte?"
   },
   {
     "pregunta": "gracias",
-    "respuesta": "¡De nada! Ha sido un placer ayudarte. Si tienes más preguntas, no dudes en consultar. 😊"
+    "respuesta": "¡De nada! Ha sido un placer ayudarte. Si tienes más preguntas sobre la USB Cali, no dudes en consultar. 😊"
   },
   {
     "pregunta": "adios",
-    "respuesta": "¡Hasta luego! Que tengas un excelente día. Esperamos verte pronto. 👋"
+    "respuesta": "¡Hasta luego! Que tengas un excelente día. Te esperamos en la Universidad de San Buenaventura Cali. 👋"
   },
   {
     "pregunta": "ok",
-    "respuesta": "Entendido. ¿Hay algo más en lo que pueda asistirte?"
+    "respuesta": "Entendido. ¿Hay algo más sobre la Universidad de San Buenaventura Cali en lo que pueda asistirte?"
+  },
+
+  
+  {
+    "pregunta": "informacion sobre la universidad san buenaventura cali",
+    "respuesta": "La Universidad de San Buenaventura Cali es una institución de educación superior franciscana, comprometida con la formación integral de profesionales con sentido crítico y responsabilidad social. Ofrecemos programas de pregrado, posgrado y educación continua. ¿Te gustaría saber algo específico?"
   },
   {
-    "pregunta": "que animal dice miau",
-    "respuesta": "Aunque soy un bot de [Nombre de tu Empresa/Servicio], te puedo decir que el animal que comúnmente dice 'miau' es el gato. 🐱"
+    "pregunta": "quienes son ustedes usb cali",
+    "respuesta": "Somos la Universidad de San Buenaventura, seccional Cali, una comunidad académica que busca la excelencia en la docencia, investigación y proyección social, inspirada en el pensamiento de San Buenaventura y los valores franciscanos."
   },
   {
-    "pregunta": "de que color es el cielo",
-    "respuesta": "Interesante pregunta. El cielo suele ser azul durante el día. ¿Te puedo ayudar con alguna consulta sobre nuestros [productos/servicios]?"
+    "pregunta": "mision de la usb cali",
+    "respuesta": "Nuestra misión es la formación integral de la persona humana mediante la producción y difusión del conocimiento, la cultura y el arte, iluminados por los principios del Evangelio y el carisma franciscano, para contribuir a la construcción de una sociedad justa y fraterna. Puedes encontrar más detalles en la sección 'Identidad Institucional' de nuestra web."
   },
   {
-    "pregunta": "cuantos dias tiene una semana",
-    "respuesta": "Una semana tiene siete días. Ahora, volviendo a nuestros servicios, ¿tienes alguna pregunta sobre [Nombre de tu Empresa/Servicio]?"
+    "pregunta": "vision de la usb cali",
+    "respuesta": "Nuestra visión es ser reconocida como una universidad de alta calidad, líder en la formación de profesionales con excelencia académica, investigativa y humanística, comprometidos con la transformación social. Para conocerla completa, te invito a visitar la sección 'Identidad Institucional' en usbcali.edu.co."
+  },
+  {
+    "pregunta": "donde esta ubicada la universidad san buenaventura cali",
+    "respuesta": "La Universidad de San Buenaventura Cali se encuentra en la Carrera 122 # 6-65 Vía Pance, Cali, Valle del Cauca, Colombia. También puedes buscar 'Universidad San Buenaventura Cali' en Google Maps para la ubicación exacta."
+  },
+  {
+    "pregunta": "cual es la direccion de la usb cali",
+    "respuesta": "Nuestra dirección es Carrera 122 # 6-65, Vía Pance, Cali. ¡Te esperamos!"
+  },
+  {
+    "pregunta": "telefono de contacto usb cali",
+    "respuesta": "Puedes comunicarte con nosotros al PBX (602) 318 2200 o (602) 488 2222. También encontrarás directorios específicos por facultad o dependencia en nuestra página web."
+  },
+  {
+    "pregunta": "pagina web de la universidad",
+    "respuesta": "Nuestra página web oficial es https://usbcali.edu.co/. Allí encontrarás toda la información detallada sobre programas, admisiones, noticias y más."
+  },
+  {
+    "pregunta": "redes sociales de la usb cali",
+    "respuesta": "¡Claro! Nos puedes encontrar en [Facebook: @USBcaliOficial], [Instagram: @usbcali], [Twitter/X: @USBcali], [YouTube: Universidad San Buenaventura Cali] y [LinkedIn: Universidad de San Buenaventura Cali]. ¡Síguenos para estar al tanto de todas nuestras novedades!"
+  },
+
+  
+  {
+    "pregunta": "que programas de pregrado ofrecen",
+    "respuesta": "Ofrecemos una amplia variedad de programas de pregrado en facultades como [Ingeniería (ej: Software, Multimedia, Industrial)], [Ciencias Económicas y Administrativas (ej: Administración, Contaduría)], [Psicología], [Derecho y Ciencias Políticas], [Arquitectura, Arte y Diseño]. ¿Te interesa alguna área en particular para darte más detalles?"
+  },
+  {
+    "pregunta": "carreras disponibles en la usb cali",
+    "respuesta": "Contamos con diversas carreras en áreas como ingeniería, ciencias económicas, psicología, derecho, arquitectura y diseño. Para ver el listado completo y actualizado, te recomiendo visitar la sección 'Programas Académicos' o 'Pregrados' en nuestra web usbcali.edu.co."
+  },
+  {
+    "pregunta": "quiero estudiar ingenieria de software",
+    "respuesta": "¡Excelente elección! Nuestro programa de Ingeniería de Software forma profesionales capaces de diseñar, desarrollar y gestionar soluciones de software innovadoras. Puedes encontrar el plan de estudios, perfil del egresado y proceso de admisión en la sección de 'Pregrados > Facultad de Ingeniería > Ingeniería de Software' en usbcali.edu.co."
+  },
+  {
+    "pregunta": "informacion sobre la carrera de psicologia",
+    "respuesta": "El programa de Psicología de la USB Cali se enfoca en [mencionar enfoques o fortalezas del programa, ej: enfoque humanista, clínico, social]. Te prepara para comprender e intervenir en el comportamiento humano. Visita 'Pregrados > Facultad de Psicología' en nuestra web para más detalles."
+  },
+  {
+    "pregunta": "que posgrados tienen",
+    "respuesta": "Tenemos una oferta de posgrados que incluye especializaciones, maestrías y doctorados en diversas áreas del conocimiento. Te invito a explorar la sección 'Posgrados' en usbcali.edu.co para conocer los programas específicos, sus líneas de investigación y requisitos."
+  },
+  {
+    "pregunta": "como es el proceso de admision para pregrado",
+    "respuesta": "El proceso de admisión generalmente incluye los siguientes pasos: 1. Diligenciar el formulario de inscripción en línea. 2. Cargar los documentos requeridos (resultados ICFES, diploma de bachiller, etc.). 3. Realizar la entrevista (si aplica para el programa). 4. Consultar los resultados de admisión. Te recomiendo visitar la sección 'Admisiones > Pregrado' en nuestra web para obtener la guía detallada y fechas."
+  },
+  {
+    "pregunta": "cuando son las inscripciones",
+    "respuesta": "Las fechas de inscripción varían para cada periodo académico. Por favor, consulta la sección 'Admisiones' en usbcali.edu.co o el calendario académico para conocer las fechas exactas para el próximo semestre."
+  },
+  {
+    "pregunta": "requisitos para inscribirme",
+    "respuesta": "Los requisitos generales para pregrado suelen ser: resultados del examen ICFES Saber 11°, fotocopia del documento de identidad, diploma o acta de grado de bachiller, y fotografías. Algunos programas pueden tener requisitos adicionales. Encuentra la lista completa en 'Admisiones > Pregrado > Requisitos' en nuestra web."
+  },
+  {
+    "pregunta": "costo de la matricula de ingenieria de software",
+    "respuesta": "El valor de la matrícula puede variar por semestre y programa. Para obtener el costo exacto de Ingeniería de Software para el próximo periodo, te sugiero consultar la sección 'Admisiones > Derechos Pecuniarios' o contactar directamente a la oficina de Admisiones y Registro."
+  },
+  {
+    "pregunta": "cuanto vale el semestre en la usb cali",
+    "respuesta": "Los costos de matrícula son específicos para cada programa académico. Puedes encontrar la información detallada sobre los derechos pecuniarios en la sección 'Admisiones' de nuestra página web usbcali.edu.co, o comunicándote con la oficina de Admisiones."
+  },
+  {
+    "pregunta": "ofrecen becas o financiacion",
+    "respuesta": "Sí, la Universidad de San Buenaventura Cali cuenta con opciones de becas y convenios de financiación para apoyar a nuestros estudiantes. Te invito a visitar la sección 'Apoyo Financiero' o 'Becas y Descuentos' en nuestra web, o contactar a la Oficina de Bienestar Institucional para más información."
+  },
+  {
+    "pregunta": "puedo homologar materias",
+    "respuesta": "Sí, es posible realizar estudios de homologación si vienes de otra institución o programa. Deberás presentar tus contenidos programáticos y certificados de notas para estudio. Contacta a la dirección del programa de tu interés o a la oficina de Admisiones para conocer el proceso detallado."
+  },
+
+  
+  {
+    "pregunta": "que servicios ofrece bienestar institucional",
+    "respuesta": "Bienestar Institucional ofrece servicios de acompañamiento psicológico, promoción de la salud, actividades deportivas, culturales, artísticas, y programas de apoyo socioeconómico. Su objetivo es contribuir a tu desarrollo integral. Encuentra más en la sección 'Bienestar' de nuestra web."
+  },
+  {
+    "pregunta": "hay biblioteca en la usb cali",
+    "respuesta": "¡Claro que sí! Contamos con la Biblioteca Fray Alberto Montealegre, que ofrece acceso a una amplia colección de recursos físicos y digitales, bases de datos, salas de estudio y servicios de referencia para apoyar tu proceso de aprendizaje e investigación. Puedes consultar su catálogo en línea."
+  },
+  {
+    "pregunta": "horario de la biblioteca",
+    "respuesta": "El horario de la Biblioteca Fray Alberto Montealegre es generalmente de [Lunes a Viernes de X AM a Y PM y Sábados de X AM a Y PM]. Te recomiendo verificar el horario actualizado en la sección 'Biblioteca' de nuestra página web, ya que puede variar en periodos intersemestrales."
+  },
+  {
+    "pregunta": "puedo hacer deporte en la universidad",
+    "respuesta": "¡Sí! Fomentamos la práctica deportiva. Contamos con escenarios deportivos y ofrecemos diversas disciplinas y selecciones representativas. Consulta la oferta de Bienestar Institucional en la sección 'Deportes'."
+  },
+  {
+    "pregunta": "hay grupos culturales o artisticos",
+    "respuesta": "Por supuesto, la USB Cali promueve la expresión artística y cultural. Contamos con grupos de [danza, música, teatro, etc.]. Puedes informarte sobre cómo participar en la sección de 'Cultura' de Bienestar Institucional."
+  },
+  {
+    "pregunta": "ofrecen cursos de idiomas",
+    "respuesta": "Sí, nuestro Centro de Idiomas ofrece cursos de [inglés, francés, etc.] para la comunidad universitaria y público externo. Puedes encontrar información sobre niveles, horarios e inscripciones en la sección 'Centro de Idiomas' de nuestra web."
+  },
+  {
+    "pregunta": "como accedo al campus virtual",
+    "respuesta": "Puedes acceder al Campus Virtual o plataforma Moodle a través del enlace que encontrarás en la página principal de usbcali.edu.co, usualmente en la sección de 'Estudiantes' o 'Servicios en Línea'. Necesitarás tu usuario y contraseña institucional."
+  },
+  {
+    "pregunta": "donde puedo ver mis notas",
+    "respuesta": "Tus calificaciones suelen estar disponibles en el sistema académico en línea de la universidad (SINU o el nombre que corresponda). Accede con tu usuario y contraseña desde la sección de 'Estudiantes' en la página web."
+  },
+  {
+    "pregunta": "calendario academico usb cali",
+    "respuesta": "El calendario académico con las fechas importantes de inicio y fin de semestre, parciales, inscripciones, etc., está disponible en la sección 'Calendario Académico' o 'Estudiantes' de nuestra página web usbcali.edu.co."
+  },
+
+  
+  {
+    "pregunta": "la universidad hace investigacion",
+    "respuesta": "Sí, la investigación es uno de nuestros pilares fundamentales. Contamos con grupos de investigación reconocidos, semilleros y proyectos en diversas áreas del conocimiento. Visita la sección 'Investigación' en nuestra web para conocer más."
+  },
+  {
+    "pregunta": "que es proyeccion social en la usb cali",
+    "respuesta": "La Proyección Social en la USB Cali busca la interacción y el servicio a la comunidad, aplicando el conocimiento generado en la universidad para contribuir a la solución de problemáticas sociales y al desarrollo regional. Conoce nuestros proyectos en la sección 'Proyección Social'."
+  },
+  {
+    "pregunta": "ofrecen educacion continua o diplomados",
+    "respuesta": "Sí, contamos con una oferta de Educación Continua que incluye diplomados, cursos, talleres y seminarios en diversas áreas para la actualización profesional y el desarrollo de competencias. Puedes consultar la oferta actual en la sección 'Educación Continua' de nuestra web."
+  },
+
+  
+  {
+    "pregunta": "necesito hablar con admisiones",
+    "respuesta": "Para contactar a la oficina de Admisiones y Registro, puedes llamar al PBX (602) 318 2200 Ext. [Extensión de Admisiones si la conoces] o escribir al correo [admisiones@usbcali.edu.co]. También puedes acercarte a sus oficinas en el campus."
+  },
+  {
+    "pregunta": "contacto de la facultad de ingenieria",
+    "respuesta": "Puedes encontrar la información de contacto específica de la Facultad de Ingeniería (teléfono, correo del decano o director de programa) en la sección 'Facultades > Ingeniería' de nuestra página web usbcali.edu.co."
+  },
+  {
+    "pregunta": "tengo un problema y necesito ayuda",
+    "respuesta": "Lamento escuchar eso. Para poder ayudarte mejor, ¿podrías especificar qué tipo de problema tienes o con qué área de la universidad necesitas contactar (académico, financiero, técnico, bienestar)?"
+  },
+
+  {
+    "pregunta": "programas",
+    "respuesta": "¡Claro! Ofrecemos pregrados en facultades como Ingeniería, Psicología y Derecho, así como posgrados. ¿Te interesa una carrera en particular, como 'ingeniería de software', o quieres saber sobre 'posgrados'?"
+  },
+  {
+    "pregunta": "admisiones",
+    "respuesta": "¡Entendido! Sobre admisiones, puedo informarte sobre el 'proceso de inscripción', 'requisitos', 'fechas' y 'costos'. ¿Qué detalle necesitas?"
+  },
+  {
+    "pregunta": "campus",
+    "respuesta": "Nuestro campus en Pance cuenta con múltiples servicios para la comunidad. Puedes preguntar por la 'biblioteca', 'bienestar institucional', 'deportes' o el 'centro de idiomas'."
+  },
+  {
+    "pregunta": "servicios",
+    "respuesta": "Nuestra universidad ofrece múltiples servicios como la 'biblioteca', 'bienestar institucional' para deportes y cultura, el 'centro de idiomas' y más. ¿Sobre cuál te gustaría saber?"
+  },
+  {
+    "pregunta": "contacto",
+    "respuesta": "Nuestro número de contacto principal es el PBX (602) 318 2200. Si necesitas el 'contacto de la facultad de ingeniería' o de otra área, por favor especifícalo."
   }
+
 ]
+
+
+ 

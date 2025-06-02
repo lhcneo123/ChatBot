@@ -1,5 +1,6 @@
 node_modules
 .wwebjs_auth
+.wwebjs_cache  
 *.log
 npm-debug.log*
 consultas_no_reconocidas.log
